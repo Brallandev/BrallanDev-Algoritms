@@ -1,0 +1,7 @@
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\bin\Debug\Validaciones.exe
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\bin\Debug\Validaciones.pdb
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\obj\x86\Debug\Validaciones.Form1.resources
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\obj\x86\Debug\Validaciones.Properties.Resources.resources
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\obj\x86\Debug\Validaciones.csproj.GenerateResource.Cache
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\obj\x86\Debug\Validaciones.exe
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Validaciones\Validaciones\obj\x86\Debug\Validaciones.pdb

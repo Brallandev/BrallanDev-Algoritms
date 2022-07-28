@@ -1,0 +1,4 @@
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Datos\bin\Debug\Datos.dll
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Datos\bin\Debug\Datos.pdb
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Datos\obj\Debug\Datos.dll
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Datos\obj\Debug\Datos.pdb

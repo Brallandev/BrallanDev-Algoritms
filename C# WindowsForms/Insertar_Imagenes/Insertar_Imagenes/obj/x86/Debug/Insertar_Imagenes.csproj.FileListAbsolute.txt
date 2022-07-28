@@ -1,0 +1,19 @@
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Insertar_Imagenes.exe
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Insertar_Imagenes.pdb
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.Form1.resources
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.Properties.Resources.resources
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.csproj.GenerateResource.Cache
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.exe
+c:\users\fernando villegas\documents\visual studio 2010\Projects\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.pdb
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.exe
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.pdb
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Insertar_Imagenes.exe
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Insertar_Imagenes.pdb
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Logica.dll
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Datos.dll
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Logica.pdb
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\bin\Debug\Datos.pdb
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.Form1.resources
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.Properties.Resources.resources
+C:\Users\Fernando Villegas\Desktop\Insertar_Imagenes\Insertar_Imagenes\obj\x86\Debug\Insertar_Imagenes.csproj.GenerateResource.Cache
